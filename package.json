@@ -1,0 +1,24 @@
+{
+  "name": "mandatory1",
+  "version": "0.0.1",
+  "description": "mandatory assaignment",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ejs": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonashc/mandatory1.git"
+  },
+  "author": "Jonas Himmelev Carlsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonashc/mandatory1/issues"
+  },
+  "homepage": "https://github.com/Jonashc/mandatory1#readme"
+}
